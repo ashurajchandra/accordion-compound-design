@@ -1,0 +1,15 @@
+.Accordion-heading{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 5px;
+    background-color: aliceblue;
+}
+.wrapper{
+    width: 60%;
+}
+.description{
+padding: 5px;
+background-color: beige;
+transition: width 195ms ease-in-out 2ms
+}
